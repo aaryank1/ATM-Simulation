@@ -72,9 +72,3 @@ Run the tests using your IDE or through the command line if JUnit is configured 
 ## 👨‍💻 Author
 
 - [@aaryank1](https://github.com/aaryank1)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
